@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @renitotheruler
-- 👀 I’m interested in improving my coding skills and sharing my work
-- 🌱 I’m currently learning python, cfd, the finite element method
+- 👀 I’m interested in improving my developer skills and sharing my work
+- 🌱 I’m currently learning python, cfd, and the finite element method
 - 💞️ I’m looking to collaborate on cfd 
 - 📫 How to reach me rene.nagel@uni-muenster.de
 - 😄 Pronouns: he/them
